@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="92" height="92" x="4" y="4" rx="26" fill="#181a17" stroke="#d7f75b" stroke-width="4"/>
+  <g transform="translate(50, 50) scale(0.85)">
+    <!-- Top Face -->
+    <polygon points="0,-36 31.18,-18 0,0 -31.18,-18" fill="#d7f75b" stroke="#181a17" stroke-width="3" stroke-linejoin="round"/>
+    <!-- Left Face -->
+    <polygon points="-31.18,-18 0,0 0,36 -31.18,18" fill="#a8cc28" stroke="#181a17" stroke-width="3" stroke-linejoin="round"/>
+    <!-- Right Face -->
+    <polygon points="0,0 31.18,-18 31.18,18 0,36" fill="#789619" stroke="#181a17" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+</svg>
